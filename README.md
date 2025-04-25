@@ -18,22 +18,15 @@ MediaTube is a lightweight C++ application for managing and playing media (audio
 - **Exception Handling:** Defensive error checking and program stability
 
 ## Project Structure
-
 MediaTube/
-  Header files (.h)
-  headers/
-  Source files (.cc)
-  sources/
-  ASCII art for video playback
-  media/
-  Build configuration
-  Makefile
-  Project documentation
-  README.md
-  Main application
-  main.cc
-  Test suite
-  test.cc
+- Header files (.h)
+- Source files (.cc)
+- ASCII art for video playback : media/
+- Build configuration
+- Makefile
+- Project documentation : README.md
+- Main application : main.cc
+- Test suite : test.cc
 
 ## Build & Run
 1. Navigate to the project directory and build the project:
